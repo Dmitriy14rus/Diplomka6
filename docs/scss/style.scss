@@ -1,0 +1,22 @@
+// Базовые стили============================
+@import "base/reset"; //обнуление стилей
+@import "base/vars"; // переменные и шаблоны
+@import "base/bases"; //базовые стили
+// =========================================
+
+
+// Страницы=================================
+@import "pages/company"; //О компании
+@import "pages/catalog"; //Каталог
+@import "pages/examplesOfWorks"; //Примеры работ
+@import "pages/blog"; //Блог
+@import "pages/contacts"; //Контакты
+// ==========================================
+
+
+// Блоки=====================================
+@import "block/header"; //Хэдер
+@import "block/advantages"; //Преимущества
+@import "block/typesStairs"; //Типы лестниц свайпер
+@import "block/footer"; //Футтер
+
